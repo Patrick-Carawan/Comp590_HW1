@@ -61,6 +61,12 @@ public interface HuffmanNode extends Comparable<HuffmanNode> {
 	// leaf node should result in an exception.
 	HuffmanNode left();
 	HuffmanNode right();
+	
+	
+	void makeParent(InternalHuffmanNode par);
+	
+	void removeLeft();
+	void removeRight();
 
 
 	// compareTo implements the Comparable interface for 

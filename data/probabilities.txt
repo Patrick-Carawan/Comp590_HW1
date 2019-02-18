@@ -1,0 +1,104 @@
+Questions for part 3:
+2.
+Ascii: 10, Character: '
+' Probability is 0.021995088627320032
+Ascii: 13, Character: '' Probability is 0.021995088627320032
+Ascii: 32, Character: ' ' Probability is 0.16466837799482428
+Ascii: 33, Character: '!' Probability is 6.000083479422323E-4
+Ascii: 34, Character: '"' Probability is 0.008857514539332721
+Ascii: 38, Character: '&' Probability is 8.695773158583076E-6
+Ascii: 39, Character: ''' Probability is 0.002598297019784623
+Ascii: 40, Character: '(' Probability is 8.695773158583076E-6
+Ascii: 41, Character: ')' Probability is 8.695773158583076E-6
+Ascii: 44, Character: ',' Probability is 0.013285402231683223
+Ascii: 45, Character: '-' Probability is 0.001987853744052091
+Ascii: 46, Character: '.' Probability is 0.010794932799065031
+Ascii: 47, Character: '/' Probability is 1.7391546317166151E-6
+Ascii: 48, Character: '0' Probability is 1.4261067980076244E-4
+Ascii: 49, Character: '1' Probability is 1.0956674179814675E-4
+Ascii: 50, Character: '2' Probability is 6.087041211008153E-5
+Ascii: 51, Character: '3' Probability is 2.6087319475749227E-5
+Ascii: 52, Character: '4' Probability is 3.8261401897765534E-5
+Ascii: 53, Character: '5' Probability is 2.7826474107465842E-5
+Ascii: 54, Character: '6' Probability is 2.4348164844032614E-5
+Ascii: 55, Character: '7' Probability is 3.130478337089907E-5
+Ascii: 56, Character: '8' Probability is 6.434872137351476E-5
+Ascii: 57, Character: '9' Probability is 2.2609010212316E-5
+Ascii: 58, Character: ':' Probability is 1.043492779029969E-4
+Ascii: 59, Character: ';' Probability is 3.513092356067563E-4
+Ascii: 63, Character: '?' Probability is 0.0012817569635751455
+Ascii: 65, Character: 'A' Probability is 0.0013234966747363442
+Ascii: 66, Character: 'B' Probability is 8.330550685922587E-4
+Ascii: 67, Character: 'C' Probability is 5.687035645713332E-4
+Ascii: 68, Character: 'D' Probability is 3.7217909118735567E-4
+Ascii: 69, Character: 'E' Probability is 4.0870133845340455E-4
+Ascii: 70, Character: 'F' Probability is 3.304393800261569E-4
+Ascii: 71, Character: 'G' Probability is 2.678298132843587E-4
+Ascii: 72, Character: 'H' Probability is 0.0021635083618554694
+Ascii: 73, Character: 'I' Probability is 0.006563569580098506
+Ascii: 74, Character: 'J' Probability is 1.9826362801569412E-4
+Ascii: 75, Character: 'K' Probability is 1.3565406127389598E-4
+Ascii: 76, Character: 'L' Probability is 5.06093997829535E-4
+Ascii: 77, Character: 'M' Probability is 0.0012730611904165623
+Ascii: 78, Character: 'N' Probability is 5.28703008041851E-4
+Ascii: 79, Character: 'O' Probability is 5.426162450955839E-4
+Ascii: 80, Character: 'P' Probability is 3.182652976041406E-4
+Ascii: 81, Character: 'Q' Probability is 3.47830926343323E-5
+Ascii: 82, Character: 'R' Probability is 3.547875448701895E-4
+Ascii: 83, Character: 'S' Probability is 0.0013252358293680607
+Ascii: 84, Character: 'T' Probability is 0.001980897125525225
+Ascii: 85, Character: 'U' Probability is 8.00011130589643E-5
+Ascii: 86, Character: 'V' Probability is 1.478281436959123E-4
+Ascii: 87, Character: 'W' Probability is 0.0013182792108411942
+Ascii: 88, Character: 'X' Probability is 1.3913237053732921E-5
+Ascii: 89, Character: 'Y' Probability is 7.913153574310599E-4
+Ascii: 90, Character: 'Z' Probability is 3.4783092634332303E-6
+Ascii: 97, Character: 'a' Probability is 0.059781701310626933
+Ascii: 98, Character: 'b' Probability is 0.010231446698388847
+Ascii: 99, Character: 'c' Probability is 0.01769068091382141
+Ascii: 100, Character: 'd' Probability is 0.03191174833736817
+Ascii: 101, Character: 'e' Probability is 0.09193693129643543
+Ascii: 102, Character: 'f' Probability is 0.015278473439630465
+Ascii: 103, Character: 'g' Probability is 0.013448882767064586
+Ascii: 104, Character: 'h' Probability is 0.04835371622561705
+Ascii: 105, Character: 'i' Probability is 0.045854551019840276
+Ascii: 106, Character: 'j' Probability is 5.878342655202159E-4
+Ascii: 107, Character: 'k' Probability is 0.006026170798898072
+Ascii: 108, Character: 'l' Probability is 0.029311712162951833
+Ascii: 109, Character: 'm' Probability is 0.019226354453627182
+Ascii: 110, Character: 'n' Probability is 0.04935373013885411
+Ascii: 111, Character: 'o' Probability is 0.05773993377299162
+Ascii: 112, Character: 'p' Probability is 0.011568856610178924
+Ascii: 113, Character: 'q' Probability is 7.060967804769458E-4
+Ascii: 114, Character: 'r' Probability is 0.04226841416924062
+Ascii: 115, Character: 's' Probability is 0.04596933522553357
+Ascii: 116, Character: 't' Probability is 0.06581308957342015
+Ascii: 117, Character: 'u' Probability is 0.02273075103653616
+Ascii: 118, Character: 'v' Probability is 0.007594888276706458
+Ascii: 119, Character: 'w' Probability is 0.01827503687007819
+Ascii: 120, Character: 'x' Probability is 9.408826557586889E-4
+Ascii: 121, Character: 'y' Probability is 0.015610651974288337
+Ascii: 122, Character: 'z' Probability is 2.556557308623424E-4
+Ascii: 160, Character: ' ' Probability is 1.7391546317166151E-6
+Ascii: 162, Character: '¢' Probability is 1.7391546317166151E-6
+Ascii: 168, Character: '¨' Probability is 1.7391546317166151E-6
+Ascii: 169, Character: '©' Probability is 2.0869855580599383E-5
+Ascii: 195, Character: 'Ã' Probability is 2.6087319475749227E-5
+
+3.
+
+Theoretical Entropy of source message in bits per symbol: 4.5317029489157985. To obtain this value, I used the formula from
+Shannon's law.
+
+4.
+
+Compressed Entropy of provided file in bits per symbol: 4.858789339677766
+
+6.
+
+Compressed Entropy of recompressed file in bits per symbol: 4.572940145254194. Both compressed entropies were obtained with 
+the formula Sigma(P(symbol)*bitlength(symbol))
+
+7. 
+
+My encoder achieves better compression than the original compressed file.
